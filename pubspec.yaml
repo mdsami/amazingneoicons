@@ -21,7 +21,7 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   fonts:
-    - family: MaterialDesignIconFont
+    - family: AmazingNeoIconFont
       fonts:
         - asset: packages/amazingneoicons/fonts/amazing-neo.ttf
         - asset: packages/amazingneoicons/fonts/amazing-neo-brands.ttf

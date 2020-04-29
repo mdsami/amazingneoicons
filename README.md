@@ -8,7 +8,7 @@ A Package use [Amazing Neo - Icons](https://amazingneo.com/icons) as set of Flut
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  amazingneoicons: ^0.0.2
+  amazingneoicons: ^0.0.3
 ```
 
 ## Usage
