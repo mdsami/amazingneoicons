@@ -1,8 +1,8 @@
 name: amazingneoicons
 description: Get All Amazingneo Icons free
 version: 0.0.1
-author: mdsami
-homepage:
+
+homepage: https://github.com/mdsami/amazingneoicons
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
