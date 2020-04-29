@@ -110,7 +110,7 @@ class AmazingNeoIcons {
   static const IconData key = const IconData(0xf414, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
   static const IconData laptop = const IconData(0xf420, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
   static const IconData laptop_code = const IconData(0xf41f, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
-  static const IconData landmark = const IconData(0xf41d fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
+  static const IconData landmark = const IconData(0xf41d, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
   static const IconData lightbulb_on = const IconData(0xf42d, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
   static const IconData list = const IconData(0xf43d, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
   static const IconData lock = const IconData(0xf442, fontFamily: 'AmazingNeoIconFont', fontPackage: 'amazingneoicons');
